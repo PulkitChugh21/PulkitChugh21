@@ -91,7 +91,7 @@ model training, evaluation, and API deployment**.
 
 ---
 
-## 🏆 Beyond Code
+## 🏆 A Few Things Along the Way
 
 🥇 **National American Football Championship — 1st Place**
 Represented Rajasthan · 2021
@@ -101,6 +101,15 @@ Represented Rajasthan · 2020
 
 🏁 **Smart India Hackathon 2025**
 Participated in the national-level innovation challenge at JECRC Foundation.
+
+---
+
+---
+
+## 🎬 Beyond Code
+
+Outside of code, I'm usually watching a movie, listening to music, or just
+vibe coding on something that catches my interest.
 
 ---
 
