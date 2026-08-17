@@ -40,7 +40,7 @@ An AI workspace designed to give assistants **persistent long-term memory** inst
 
 ---
 
-### 🔬 Image Classification & Object Detection
+### 🔬 Image Classification System
 
 **EfficientNetB8 · YOLOv8s · Python · Gradio · Hugging Face**
 
